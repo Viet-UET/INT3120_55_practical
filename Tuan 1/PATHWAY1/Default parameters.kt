@@ -1,8 +1,6 @@
 fun main() {
     val firstUserEmailId = "user_one@gmail.com"
 
-    // The following line of code assumes that you named your parameter as emailId.
-    // If you named it differently, feel free to update the name.
     println(displayAlertMessage( operatingSystem = "unknown OS" , emailId = firstUserEmailId))
     println()
 
