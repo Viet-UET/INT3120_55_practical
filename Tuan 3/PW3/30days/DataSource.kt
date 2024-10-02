@@ -1,0 +1,36 @@
+package com.example.createa30daysapp.data
+
+import com.example.createa30daysapp.R
+
+val tips = listOf<Tip>(
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+    Tip(R.string.tip8_name, R.string.tip8_description, R.drawable.image5),
+)
